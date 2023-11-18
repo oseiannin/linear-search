@@ -1,2 +1,2 @@
-# ds
-data structures
+# linear-search
+
